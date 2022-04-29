@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @pbinev
+- 👀 I’m interested in math, data, numerical pdes, computational microscopy, learning theory
